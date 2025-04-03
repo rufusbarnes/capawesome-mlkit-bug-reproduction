@@ -1,9 +1,11 @@
+# README
+
 > [!IMPORTANT]  
 > Patched in version 7.1.1
 
 Minimum reproducable example for [this issue](https://github.com/capawesome-team/capacitor-mlkit/issues/258) occuring on v7.1.0 of https://github.com/capawesome-team/capacitor-mlkit.
 
-##### Steps to reproduce
+### Steps to reproduce
 
 1. Install dependencies with `npm -i`
 2. Build the app with `npm run build && npx cap sync`
